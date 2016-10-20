@@ -1,0 +1,22 @@
+{
+  "name": "tmod",
+  "version": "1.0.0",
+  "description": "把tmod当做插件来运用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huitianji/gulp-tmod.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huitianji/gulp-tmod/issues"
+  },
+  "homepage": "https://github.com/huitianji/gulp-tmod#readme",
+  "devDependencies": {
+    "gulp-tmod": "^2.0.3"
+  }
+}
